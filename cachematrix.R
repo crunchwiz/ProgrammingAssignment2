@@ -1,3 +1,6 @@
+## Author: Ahamadu M. Sirleaf
+## Date: 02/23/2016
+
 ## makeCacheMatrix returns a list of functions, all of which handles the caching and 
 ## retrieving of both the original matrix and inverted matrix.
 
